@@ -26,11 +26,10 @@ O processo é simples: o usuário distribui o material a ser peneirado (solo, se
 
 | Componente         | Quantidade | Preço da Unidade / R$ | Preço / R$|
 |--------------------|-----|----------------|----------|
-| X  | 2   | 0.00           | 0.00     |
-| Y        | 1   | 0.00           | 0.00     |
-| Z | 2   | 0.00           | 0.00     |
-| W    | 2   | 0.00           | 0.00     |
-| Q  | 2   | 0.00           | 0.00     |
+| Joelho 90 PVC 25mm  | 8   | 0,58         |4,64    |
+| Tê PVC 25mm        | 1   | 9|0,99| 8,91
+| Luva PVC 25mm | 1   | 0,64          |0,64     |
+| Peneira 60x40cm    | 1   | 59,9           | 59,9     |
 |                    |     |                |          |
 |                    |     |          Total | 00.00    |
 
