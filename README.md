@@ -33,7 +33,7 @@ O processo é simples: o usuário distribui o material a ser peneirado (solo, se
 |       Molas de Tração   |  4   |       9,5         |     38     |
 |            Corda Elástica Com Gancho        |1     |  21,13     | 21,13 |   
 |Cabo Elétrico 1 metro | 1| 3,23| 3,23| 
-| Cano PVC 20mm com 6m | 1 |22,23 |22,23 | 
+| Cano PVC 20mm com 3m | 2 | 9,50 |19,00 | 
 | Controlador p/Motor| 1| 17,52| 17,52| 
 | Motor | 1  | 42,95 |42,95 | 
 | Fonte Bivolt -> 12V 50A DC| 1 |96,45 |96,45 |
