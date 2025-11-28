@@ -32,7 +32,7 @@ O processo é simples: o usuário distribui o material a ser peneirado (solo, se
 | Peneira 60x40cm    | 1   | 59,9           | 59,9     |
 |       Molas de Tração   |  4   |       9,5         |     38     |
 |            Corda Elástica Com Gancho        |1     |  21,13     | 21,13 |   
-|Cabo Elétrico 1 metro | 1| 3,23| 3,23| 
+|Cabo Elétrico 1 metro 1,5mm²| 1| 3,23| 3,23| 
 | Cano PVC 20mm com 3m | 2 | 9,50 |19,00 | 
 | Controlador p/Motor| 1| 17,52| 17,52| 
 | Motor | 1  | 42,95 |42,95 | 
