@@ -37,7 +37,7 @@ O processo é simples: o usuário distribui o material a ser peneirado (solo, se
 | Controlador p/Motor| 1| 17,52| 17,52| 
 | Motor | 1  | 42,95 |42,95 | 
 | Fonte Bivolt -> 12V 50A DC| 1 |96,45 |96,45 |
-|Plug Macho E Femea Acendedor | 1  |2,66 | 2,66| 
+| Cabo Extensor Acendedor | 1  |2,66 | 2,66| 
 | Fusível 15A 250V | 1 | 0,97 |0,97 |
 |Plugue de tomada (2 pinos)| 1 | 2,89|2,89 |
 Total | 322,12   |
