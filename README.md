@@ -42,7 +42,7 @@ O processo é simples: o usuário distribui o material a ser peneirado (solo, se
 | Cabo Extensor Acendedor                 | 1          | 2,66                 | 2,66       |
 | Fusível 15A 250V                        | 1          | 0,97                 | 0,97       |
 | Plugue de tomada (2 pinos)              | 1          | 2,89                 | 2,89       |
-| Total                                   | —          | —                    | 318,89     |
+| Total                                   | —          | —                    | 351,93     |
 
 
 ## Manual de Montagem
