@@ -26,13 +26,15 @@ O processo é simples: o usuário distribui o material a ser peneirado (solo, se
 
 | Componente                              | Quantidade | Preço Unidade (R$) | Preço (R$) |
 |-----------------------------------------|------------|----------------------|------------|
-| Joelho 90 PVC 25mm                      | 8          | 0,58                 | 4,64       |
-| Tê PVC 25mm                             | 9          | 0,99                 | 8,91       |
+| Joelho 90 PVC 25mm                      | 4          | 0,58                 | 2,32       |
+| Tê PVC 25mm                             | 6          | 0,99                 | 3,96       |
 | Luva PVC 25mm                           | 1          | 0,64                 | 0,64       |
+| Conexão Tubo Curva 3 Saídas PVC 25 mm   | 4          | 6,29                 | 25,16      |
 | Peneira 60x40cm                         | 1          | 59,90                | 59,90      |
 | Molas de Tração                         | 4          | 9,50                 | 38,00      |
 | Corda Elástica com Gancho               | 1          | 21,13                | 21,13      |
-| Cano PVC 20mm (3 metros)                | 2          | 9,50                 | 19,00      |
+| Cano PVC 20mm (3 metros)                | 3          | 9,50                 | 28,50      |
+| Cano PVC 20mm (1 metro)                 | 1          | 5,65                 | 5,65       |
 | Cabo Elétrico 1 metro 1,5mm²            | 1          | 3,23                 | 3,23       |
 | Controlador p/ Motor                    | 1          | 17,52                | 17,52      |
 | Motor                                   | 1          | 42,95                | 42,95      |
