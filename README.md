@@ -8,7 +8,7 @@ A proposta permite que qualquer grupo possa construir, adaptar ou otimizar o equ
 
 <img width="900" height="1166" alt="Gemini_Generated_Image_eo8nz3eo8nz3eo8n" src="https://github.com/user-attachments/assets/43fd6751-fe3a-4a05-bc8a-f0e58c60ad73" />
 
-## Features Principais
+## Fatores Principais
 
 - Completamente gratuito e open source
 - Estrutura fixa e resistente a base de canos PVC
