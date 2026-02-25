@@ -51,3 +51,10 @@ Nós montamos o nosso TerraVibe de uma forma e documentamos ela em um guia de mo
 
 [Manual de montagem](manual.pdf) 
 
+## Imagem da TerraVibe
+
+A TerraVibe é a nossa solução portátil em cano de PVC. A estrutura é leve e a peneira tem 30 por 60 centímetros. O sistema usa um motor alimentado por fonte e controlado por um potênciometro que permite ajustar a intensidade da vibração. Isso garante que a terra seja separada sem danificar os artefatos. 
+
+![Protótipo-final-TerraVibe__-_1](https://github.com/user-attachments/assets/becd63f1-ea45-492d-b09e-64fff3497d93)
+
+
