@@ -49,8 +49,8 @@ O processo é simples: o usuário distribui o material a ser peneirado (solo, se
 
 Nós montamos o nosso TerraVibe de uma forma e documentamos ela em um guia de montagem com o passo-a-passo para produção. A baixo, temos o link do manual.
 
-[Manual de montagem](manual.pdf) 
-
+[Manual de montagem]([manual.pdf) 
+](https://github.com/FrancoDroid/terravibe/blob/main/Manual%20de%20Montagem%20-%20TerraVibe.pdf)
 ## Imagem da TerraVibe
 
 A TerraVibe é a nossa solução portátil em cano de PVC. A estrutura é leve e a peneira tem 30 por 60 centímetros. O sistema usa um motor alimentado por fonte e controlado por um potênciometro que permite ajustar a intensidade da vibração. Isso garante que a terra seja separada sem danificar os artefatos. 
